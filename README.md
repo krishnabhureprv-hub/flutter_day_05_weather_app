@@ -7,7 +7,7 @@ A premium, high-performance Weather Application built with Flutter. This project
 * **Glassmorphism UI:** Purely code-based glass effect using BackdropFilter and ImageFilter.
 * **Dynamic Theming:** The background gradient and UI colors shift automatically based on the current weather condition (Clear, Rain, Clouds, etc.).
 * **Custom Graphics:** Built a custom **Sun Arc Phase Indicator** using CustomPainter to show sunrise and sunset progress.
-* **Interactive Charts:** Integrated `fl_chart` to visualize temperature trends with a smooth, minimalist line graph.
+* **Interactive Charts:** Integrated fl_chart to visualize temperature trends with a smooth, minimalist line graph.
 * **State Management:** Powered by `Provider` for clean architecture and efficient data flow.
 * **Performance:** Optimized for 60FPS animations with custom `AnimationControllers`.
 
