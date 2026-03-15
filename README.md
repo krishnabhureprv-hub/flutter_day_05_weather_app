@@ -2,7 +2,7 @@
 
 A premium, high-performance Weather Application built with Flutter. This project focuses on modern UI/UX principles, specifically **Glassmorphism**, and implements complex animations and custom graphics without relying on heavy external assets.
 
-## ✨ Key Features
+#Key Features
 
 * **Glassmorphism UI:** Purely code-based glass effect using `BackdropFilter` and `ImageFilter`.
 * **Dynamic Theming:** The background gradient and UI colors shift automatically based on the current weather condition (Clear, Rain, Clouds, etc.).
