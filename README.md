@@ -1,4 +1,4 @@
-# ☁️ Advanced Weather
+#Advanced Weather
 
 A premium, high-performance Weather Application built with Flutter. This project focuses on modern UI/UX principles, specifically **Glassmorphism**, and implements complex animations and custom graphics without relying on heavy external assets.
 
