@@ -9,7 +9,7 @@ A premium, high-performance Weather Application built with Flutter. This project
 * **Custom Graphics:** Built a custom **Sun Arc Phase Indicator** using CustomPainter to show sunrise and sunset progress.
 * **Interactive Charts:** Integrated fl_chart to visualize temperature trends with a smooth, minimalist line graph.
 * **State Management:** Powered by Provider for clean architecture and efficient data flow.
-* **Performance:** Optimized for 60FPS animations with custom `AnimationControllers`.
+* **Performance:** Optimized for 60FPS animations with custom AnimationControllers.
 
 #Tech Stack
 
