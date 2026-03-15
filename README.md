@@ -11,7 +11,7 @@ A premium, high-performance Weather Application built with Flutter. This project
 * **State Management:** Powered by `Provider` for clean architecture and efficient data flow.
 * **Performance:** Optimized for 60FPS animations with custom `AnimationControllers`.
 
-## 🛠️ Tech Stack
+#Tech Stack
 
 * **Framework:** Flutter
 * **Language:** Dart
